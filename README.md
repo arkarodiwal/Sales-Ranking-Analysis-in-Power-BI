@@ -8,4 +8,4 @@
 - Created Measures and calculated columns required for necessary visualizations using DAX and Time Intelligence in DAX. Created date table using DAX.
 
 ### Result: 
--Created an interactive dashboard showing sales and sales person rank analysis based on revenue.
+- Created an interactive dashboard showing sales and sales person rank analysis based on revenue.
