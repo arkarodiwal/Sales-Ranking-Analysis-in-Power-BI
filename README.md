@@ -5,6 +5,7 @@ Primary Goal- To build power BI dashboard using Sales & Sales person data, which
 Solution:
 
 •	Loading & transforming sales data from excel file into Power BI desktop.
+
 •	Created Measures and calculated columns required for necessary visualizations using DAX and Time Intelligence in DAX. Created date table using DAX.
 
 Result: 
